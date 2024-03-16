@@ -1,6 +1,6 @@
 
 ```python
-print("discord bot template")
+print("bloxlink method")
 print("for more help find my discord (https://guns.lol/saberscult)")
 ```
 
